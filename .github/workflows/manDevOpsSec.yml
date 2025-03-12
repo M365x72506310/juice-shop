@@ -1,4 +1,5 @@
 name: Microsoft Security DevOps
+
 on:
   workflow_dispatch:
     inputs:
